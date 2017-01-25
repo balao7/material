@@ -17,7 +17,7 @@ Quick Links:
 *  [Installing](#installing)
 
 
-Please note that using Angular Material requires the use of **Angular 1.3.x** or higher. Angular
+Please note that using Angular Material requires the use of **AngularJS 1.3.x** or higher. Angular
 Material is targeted for all browsers with browser versions shown below with green boxes:
 
 ![ngm1_browser_support](https://cloud.githubusercontent.com/assets/210413/18553899/f3fbfbca-7b27-11e6-81c9-2937950c808e.png)
@@ -44,7 +44,7 @@ Based on the number of unique contributors and repository forks, GitHub Octovers
 
 Angular Material has revised/improved its build processes. To preserve stability with applications currently using Angular Material, we will have three (3) types of releases:
 
-*  `major` :  this type of release will be the Angular 2.x efforts maintained in a separate repository called [Material2](https://github.com/angular/material2). This type of release will not be used within Angular Material 1.x.
+*  `major` :  major releases will be done as part of the latest iteration of Angular Material on a [separate repo](https://github.com/angular/material2). This type of release will not be used within AngularJS Material.
 *  `minor`:  aka `master` contains patch release changes AND breaking changes and new features
 *  `patch`:  non-breaking changes (no API, CSS, UX changes that will cause breaks in existing ngMaterial applications)
 
@@ -62,7 +62,7 @@ Our formal release of `minor` builds is much less frequent; probably 1x / Quarte
 
 The Changelog may contain releases for `patch` or `minor`. If you do not see a fix listed in the Changelog but the issue has been resolved or the PR merged, then those changes will be `master` available in the next *minor* release.
 
-> for the purposes of Angular Material 1.x, you *could* think of the patch releases as being *minor* changes and the 'minor' releases as being *major* changes.
+> for the purposes of AngularJS Material, you *could* think of the patch releases as being *minor* changes and the 'minor' releases as being *major* changes.
 
 
 ## <a name="contributing"></a> Contributing
